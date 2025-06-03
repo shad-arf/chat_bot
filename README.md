@@ -1,32 +1,32 @@
-# chat_bot
-This project is a chatbot designed to assist students, particularly at Soran University. The chatbot aims to provide a convenient and accessible platform for students to get information and support.
+# Chatbot for Student Assistance
 
-## Main Function Points
-1 - User-Friendly Interface
+This project is a chatbot designed to assist students, particularly at Soran University. The chatbot provides a convenient and accessible platform for students to obtain information and support.
 
-Intuitive design for easy navigation and interaction.
-2- Question and Answer Functionality
+## Main Features
 
-Students can ask questions and receive relevant, accurate responses.
-3- Chat History
+1. **User-Friendly Interface**
+   - An intuitive design that facilitates easy navigation and interaction.
 
-Maintains a record of past conversations for users to review.
-4- User Authentication
+2. **Question and Answer Functionality**
+   - Students can ask questions and receive relevant and accurate responses.
 
-Allows students to sign up, log in, and manage their accounts (including password changes).
-5- Feedback and Bug Reporting
+3. **Chat History**
+   - Maintains a record of past conversations for users to review at any time.
 
-Users can submit feedback about the chatbot and report any issues encountered.
+4. **User Authentication**
+   - Allows students to sign up, log in, and manage their accounts, including password changes.
+
+5. **Feedback and Bug Reporting**
+   - Users can submit feedback about the chatbot and report any issues encountered.
+
 ## Technology Stack
-PHP
 
-HTML
-
-Hack
-
-JavaScript
-
-CSS
+- **PHP**
+- **HTML**
+- **Hack**
+- **JavaScript**
+- **CSS**
 
 ## License
+
 The project does not specify a license, so the default copyright applies.
